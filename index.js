@@ -2,20 +2,22 @@
 const express = require('express'); // eslint-disable-line import/newline-after-import
 const cors = require('cors');
 const collections = {
-  basketball: {
-    shoes: require('./data/basketball-shoes.json'),
-    apparel: require('./data/basketball-apparel.json'),
-    accessories: require('./data/basketball-accessories.json'),
+  men: {
+    clothing: require('./data/men-clothing.json'),
+    scarves: require('./data/men-scarves.json'),
+    accessories: require('./data/men-accessories.json'),
+    shoes: require('./data/men-shoes.json'),
+    fragrance: require('./data/men-fragrance.json'),
+    gifts: require('./data/men-gifts.json'),
   },
-  football: {
-    cleats: require('./data/football-cleats.json'),
-    apparel: require('./data/football-apparel.json'),
-    accessories: require('./data/football-accessories.json'),
-  },
-  running: {
-    shoes: require('./data/running-shoes.json'),
-    apparel: require('./data/running-apparel.json'),
-    accessories: require('./data/running-accessories.json'),
+  women: {
+    clothing: require('./data/women-clothing.json'),
+    bags: require('./data/women-bags.json'),
+    scarves: require('./data/women-scarves.json'),
+    accessories: require('./data/women-accessories.json'),
+    shoes: require('./data/women-shoes.json'),
+    fragrance: require('./data/women-fragrance.json'),
+    gifts: require('./data/women-gifts.json'),
   },
 };
 
@@ -55,7 +57,7 @@ app.use(cors());
 app.use('/v1', router);
 app.get('/', (req, res) => {
   res.send({
-    docs: 'https://github.com/evgenyrodionov/adidas-fake-api',
+    docs: 'https://github.com/evgenyrodionov/burberry-fake-api',
     version: `1.0.0-${process.env.BUILD_DATE || 'local'}`,
   });
 });

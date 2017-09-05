@@ -1,5 +1,5 @@
 {
-  "name": "adidas-api",
+  "name": "burberry-fake-api",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -13,11 +13,12 @@
     "husky": "^0.13.3"
   },
   "now": {
-    "alias": "erodionov-adidas-fake-api"
+    "alias": "erodionov-burberry-fake-api"
   },
   "scripts": {
     "start": "node index.js",
-    "deploy": "now --public -e BUILD_DATE=$(date +%Y%m%d%H%M) -e NODE_ENV=production",
+    "deploy":
+      "now --public -e BUILD_DATE=$(date +%Y%m%d%H%M) -e NODE_ENV=production",
     "alias": "now alias",
     "prepush": "npm run deploy && npm run alias"
   }
