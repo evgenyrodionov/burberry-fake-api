@@ -50,11 +50,13 @@ router.get('/products/:group/:type', (req, res) => {
   }
 });
 
-router.get('/products/:group/:type/:slug', (req, res) => {
-  const { group, type, slug } = req.params;
+router.get('/products/:group/:type/:slugOrId', (req, res) => {
+  const { group, type, slugOrId } = req.params;
 
   if (collections[group] && collections[group][type]) {
-    const product = collections[group][type].items.find(p => p.slug === slug);
+    const product = collections[group][type].items.find(
+      p => p.slug === slugOrId || p.id === slugOrId,
+    );
 
     if (product) res.send(product);
     else res.sendStatus(404);
@@ -69,7 +71,7 @@ app.get('/', (req, res) => {
   res.send({
     docs: 'https://github.com/evgenyrodionov/burberry-fake-api',
     version: `1.0.0-${process.env.BUILD_DATE || 'local'}`,
-    routes: ['/v1/products/men/suits', '/v1/products/men/suits/:slug'],
+    routes: ['/v1/products/men/suits', '/v1/products/men/suits/:slugOrId'],
   });
 });
 
