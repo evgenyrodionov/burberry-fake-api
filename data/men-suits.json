@@ -1,7 +1,6 @@
 {
   "title": "Suits",
-  "description":
-    "Tailoring to suit. British and Italian-woven heritage wools, cashmere and silks feature in our collection of modern and slim fit suits and tailored separates, made for year-round wear. Linen suits are lightweight, and our Travel Tailoring collection is crafted from natural fabrics that are designed to move with the body.",
+  "description": "Tailoring to suit. British and Italian-woven heritage wools, cashmere and silks feature in our collection of modern and slim fit suits and tailored separates, made for year-round wear. Linen suits are lightweight, and our Travel Tailoring collection is crafted from natural fabrics that are designed to move with the body.",
   "items": [
     {
       "title": "Soho Fit Wool Flannel Suit",
@@ -15,24 +14,24 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
-          "value": "MILITARY GREEN MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
+          "value": "MILITARY GREEN MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8d287a23059304b7aaed34bfe0fd13e2b32aebe0?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/fadebd72a14cc391845878aae6e692276877be5c?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK CHARCOAL MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK CHARCOAL MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/a8b6231b6367d7dcea2e6fb580b1a272af2174d4?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/85aa56005607a1d00ba45f94649d92dcd63efcd3?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -69,22 +68,24 @@
           "id": "40507921023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
-      "details":
-        "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507921</span></div>",
+      "description": "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
+      "details": "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507921</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/ed26547bfcdf09bf634e650183c29ea106fb9d7c.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/199b281f79532a69740d528a77a5665f9a438364.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f73a38c4f877dc11830fc8c7276c2c1c303183e2.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8457a5108c6a450f60ac66f61f2900cfdfe0f3d2.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d6063dcd8bea09e83302afc0fa112ee295f04799.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/195bb39294deb3e085c5e97dad2ecfbf1b378998.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/3975fb5b6d95e4564e6e92adb9ad0fc8bfae44d0.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/5e192139423f6f826bc5274d43a30035e3c9d2d1.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/98b87a2e52444558af1f0dbe0ad59a326a30ee79.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/ed26547bfcdf09bf634e650183c29ea106fb9d7c.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/199b281f79532a69740d528a77a5665f9a438364.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f73a38c4f877dc11830fc8c7276c2c1c303183e2.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8457a5108c6a450f60ac66f61f2900cfdfe0f3d2.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d6063dcd8bea09e83302afc0fa112ee295f04799.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/195bb39294deb3e085c5e97dad2ecfbf1b378998.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/3975fb5b6d95e4564e6e92adb9ad0fc8bfae44d0.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/5e192139423f6f826bc5274d43a30035e3c9d2d1.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/98b87a2e52444558af1f0dbe0ad59a326a30ee79.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["40507181", "40516731", "40381991"]
+      "linkedProductIds": [
+        "40507181",
+        "40516731",
+        "40381991"
+      ]
     },
     {
       "title": "Soho Fit Wool Flannel Suit",
@@ -98,24 +99,24 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
-          "value": "MILITARY GREEN MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
+          "value": "MILITARY GREEN MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8d287a23059304b7aaed34bfe0fd13e2b32aebe0?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/fadebd72a14cc391845878aae6e692276877be5c?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK CHARCOAL MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK CHARCOAL MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/a8b6231b6367d7dcea2e6fb580b1a272af2174d4?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/85aa56005607a1d00ba45f94649d92dcd63efcd3?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -152,23 +153,25 @@
           "id": "40507911023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
-      "details":
-        "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507911</span></div>",
+      "description": "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
+      "details": "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507911</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/a230b9945cde40a61e19ad46efc30db8ca1d6724.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/4b47fa80db7ad6a62233a158bb90cbb0b7feee6f.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b7e0bbe306f39b969dc62af196ca586b292defbc.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/661366ee9ff3aa80982214e92712270c09e50e13.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/1a29ab298a2aa8ed6aae66e340823a0ce917f224.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/97553bbe5e1fb0347d7e570d0c22c3188f873e3d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/1be6f24ae7b04aec9c175925b714a600e719d38f.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/6458c569bd052152a57118ea1f43813ff4418d18.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/209308e218c1cad04121082749c4de5f659c0f4b.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/4ad8d28205e022bba21317ec7d03ea4a6c63928a.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/a230b9945cde40a61e19ad46efc30db8ca1d6724.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/4b47fa80db7ad6a62233a158bb90cbb0b7feee6f.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b7e0bbe306f39b969dc62af196ca586b292defbc.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/661366ee9ff3aa80982214e92712270c09e50e13.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/1a29ab298a2aa8ed6aae66e340823a0ce917f224.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/97553bbe5e1fb0347d7e570d0c22c3188f873e3d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/1be6f24ae7b04aec9c175925b714a600e719d38f.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/6458c569bd052152a57118ea1f43813ff4418d18.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/209308e218c1cad04121082749c4de5f659c0f4b.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/4ad8d28205e022bba21317ec7d03ea4a6c63928a.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["40507171", "40516741", "40381991"]
+      "linkedProductIds": [
+        "40507171",
+        "40516741",
+        "40381991"
+      ]
     },
     {
       "title": "Soho Fit Wool Flannel Suit",
@@ -182,24 +185,24 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
-          "value": "MILITARY GREEN MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
+          "value": "MILITARY GREEN MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8d287a23059304b7aaed34bfe0fd13e2b32aebe0?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/fadebd72a14cc391845878aae6e692276877be5c?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK CHARCOAL MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK CHARCOAL MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/a8b6231b6367d7dcea2e6fb580b1a272af2174d4?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/85aa56005607a1d00ba45f94649d92dcd63efcd3?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -236,22 +239,25 @@
           "id": "40507931023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
-      "details":
-        "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507931</span></div>",
+      "description": "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
+      "details": "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507931</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/982d16290734969f6e0a5a63b830c150a0421a9f.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/0768d08d53eb5ba27806dded75408f5fa558e53b.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/77b69df9cbefa511f2af507207fa46929d7e643e.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d60bf0ee471fd61e366b3149322ead2050e3fafb.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8bd902ba16e4991436edcd7356f123a12ef6c33f.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ab4e34abd845bf94f027f57401277c52cb290226.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/2a170248aa5c40b52ceee63572e4942658d888ac.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b663143f09e53722a5d5a1bacd42ba0298392a36.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8790e3b220186c73ee5792fc33213fedde329e45.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/982d16290734969f6e0a5a63b830c150a0421a9f.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/0768d08d53eb5ba27806dded75408f5fa558e53b.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/77b69df9cbefa511f2af507207fa46929d7e643e.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d60bf0ee471fd61e366b3149322ead2050e3fafb.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8bd902ba16e4991436edcd7356f123a12ef6c33f.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ab4e34abd845bf94f027f57401277c52cb290226.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/2a170248aa5c40b52ceee63572e4942658d888ac.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b663143f09e53722a5d5a1bacd42ba0298392a36.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8790e3b220186c73ee5792fc33213fedde329e45.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["40507171", "40516721", "39976921", "40541271"]
+      "linkedProductIds": [
+        "40507171",
+        "40516721",
+        "39976921",
+        "40541271"
+      ]
     },
     {
       "title": "Soho Fit Wool Flannel Suit",
@@ -265,24 +271,24 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
-          "value": "MILITARY GREEN MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/7031c7c6f0ff68d50ae17f7d42327aab700ce2c7.jpg?$BBY_V2_ML_HERO$",
+          "value": "MILITARY GREEN MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8d287a23059304b7aaed34bfe0fd13e2b32aebe0?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e7b9bd31fd9d6f80e8b61ea2b3dcc84b0920cdf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/fadebd72a14cc391845878aae6e692276877be5c?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK CHARCOAL MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/9fbbeeb3b0861c7ea39355096b62b6a00d0680a7.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK CHARCOAL MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/a8b6231b6367d7dcea2e6fb580b1a272af2174d4?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d677bd4ea713cbbf1b87864d72853a05cccc4158.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/85aa56005607a1d00ba45f94649d92dcd63efcd3?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -319,22 +325,24 @@
           "id": "40507951023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
-      "details":
-        "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507951</span></div>",
+      "description": "<ul><li>An Italian-made suit in soft wool flannel. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement. Created with business trips in mind, the jacket is designed with zip fastening internal pockets, ideal for stowing travel documents inside.</li></ul>",
+      "details": "<ul><li>Outer: 100% wool</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Internal zipped welt pockets</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40507951</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/f0b1f759aa27b4dde64cbde7715b7fd4b0323aca.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/4514618e2531b770491a422902e50e22204ceffa.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e2786809895702ae8f29ffffb6aee0f6cb4f210c.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/dfd35d346c41e8fe5a74e3daf7e0f929a561657e.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/80d698786d48e3db8929346616efd726c7703f59.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/6b6a0e5e8fbf0d9ed6bbb9a7a7b2bea38100fb1d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/3484c6c87200335728ca54d0d90b13a10a8ee658.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/86bbf9050baef7b4c39c916d4f5d04d8ce1536e6.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/27391a431ce6f7259d52bb7000856cb7feb3cec0.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/f0b1f759aa27b4dde64cbde7715b7fd4b0323aca.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/4514618e2531b770491a422902e50e22204ceffa.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e2786809895702ae8f29ffffb6aee0f6cb4f210c.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/dfd35d346c41e8fe5a74e3daf7e0f929a561657e.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/80d698786d48e3db8929346616efd726c7703f59.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/6b6a0e5e8fbf0d9ed6bbb9a7a7b2bea38100fb1d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/3484c6c87200335728ca54d0d90b13a10a8ee658.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/86bbf9050baef7b4c39c916d4f5d04d8ce1536e6.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/27391a431ce6f7259d52bb7000856cb7feb3cec0.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["40507181", "40516731", "40381991"]
+      "linkedProductIds": [
+        "40507181",
+        "40516731",
+        "40381991"
+      ]
     },
     {
       "title": "Soho Fit Wool Mohair Suit",
@@ -348,29 +356,29 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8010e91b482c557bf645e5ab42befaf2b3f00667?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/7ee70c117243dd725e0c846b2be4fde31231d10a?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHESTNUT BROWN"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHESTNUT BROWN",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/47a7b081caa3d2414d3f93b0374068108f561119?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
-          "value": "OXBLOOD"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
+          "value": "OXBLOOD",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/248ada312dcb221b577228082a74429fce5ebe5d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
-          "value": "BRIGHT NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
+          "value": "BRIGHT NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/999adb3a7ae0fd27ae8ad6dea6f1672f5fd360ff?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -411,20 +419,23 @@
           "id": "40557481026"
         }
       ],
-      "description":
-        "<ul><li>An Italian-tailored suit in a fine wool and mohair blend. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement, while the trousers feature metal side adjusters for comfort. Work this style into your everyday sartorial wardrobe.</li></ul>",
-      "details":
-        "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40557481</span></div>",
+      "description": "<ul><li>An Italian-tailored suit in a fine wool and mohair blend. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement, while the trousers feature metal side adjusters for comfort. Work this style into your everyday sartorial wardrobe.</li></ul>",
+      "details": "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40557481</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/46e5871c1b974f453aa610ed2414d5a8b1a4ac50.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/211a26318ec137b30535c7473ad70f648fb068cf.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/618388e3c49de092bf10e11f4044bf5f0033fb81.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/2eafb86747b6a2d4a1e3cb9f329571c7e873b746.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/af0ac4d58c8e121466265d653a13ae1bbca7767e.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b6eeef88d483a8e311777ad79cd1e4b937715257.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ad4bfa253dda8a83c2e866f433ee7fbe78472d90.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/46e5871c1b974f453aa610ed2414d5a8b1a4ac50.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/211a26318ec137b30535c7473ad70f648fb068cf.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/618388e3c49de092bf10e11f4044bf5f0033fb81.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/2eafb86747b6a2d4a1e3cb9f329571c7e873b746.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/af0ac4d58c8e121466265d653a13ae1bbca7767e.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b6eeef88d483a8e311777ad79cd1e4b937715257.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ad4bfa253dda8a83c2e866f433ee7fbe78472d90.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40279321", "40200301", "40049271", "40020121"]
+      "linkedProductIds": [
+        "40108161",
+        "40200441",
+        "40054821",
+        "40020121"
+      ]
     },
     {
       "title": "Soho Fit Wool Mohair Suit",
@@ -438,29 +449,29 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8010e91b482c557bf645e5ab42befaf2b3f00667?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/7ee70c117243dd725e0c846b2be4fde31231d10a?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHESTNUT BROWN"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHESTNUT BROWN",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/47a7b081caa3d2414d3f93b0374068108f561119?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
-          "value": "OXBLOOD"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
+          "value": "OXBLOOD",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/248ada312dcb221b577228082a74429fce5ebe5d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
-          "value": "BRIGHT NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
+          "value": "BRIGHT NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/999adb3a7ae0fd27ae8ad6dea6f1672f5fd360ff?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -497,24 +508,27 @@
           "id": "40505041023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-tailored suit in a fine wool and mohair blend. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement, while the trousers feature metal side adjusters for comfort. Work this style into your everday sartorial wardrobe.</li></ul>",
-      "details":
-        "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40505041</span></div>",
+      "description": "<ul><li>An Italian-tailored suit in a fine wool and mohair blend. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement, while the trousers feature metal side adjusters for comfort. Work this style into your everday sartorial wardrobe.</li></ul>",
+      "details": "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40505041</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/cbed18150c71252c9bc3620d71139a86536c4431.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/33c34967b2b2a69b4d1844ed3b022df56ac931c7.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/455115b6e18d6c1b530c351e4cdb2b6c31cb505c.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/bbfeb722676529e5c489128ffcbba664a28a53c5.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ac1981e4e9416560cd5081a1511816cdf947b4ef.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/36c4d5c7bcb0289a7c11adc7d649090d92a452bf.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ac56942f63f968e436505adcb30ee32369b85d3f.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/7272f54575a2736b94fe989502ba171f6eb3ce73.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/3d11ddcb715148a0429d3c50f0a6f4a7e8377aba.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/acc4fd772d2330aa825c8e730769ce0565f10875.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8f4fb2e4e1ac46468fa079f7d23aefe78fe72be0.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/cbed18150c71252c9bc3620d71139a86536c4431.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/33c34967b2b2a69b4d1844ed3b022df56ac931c7.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/455115b6e18d6c1b530c351e4cdb2b6c31cb505c.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/bbfeb722676529e5c489128ffcbba664a28a53c5.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ac1981e4e9416560cd5081a1511816cdf947b4ef.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/36c4d5c7bcb0289a7c11adc7d649090d92a452bf.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ac56942f63f968e436505adcb30ee32369b85d3f.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/7272f54575a2736b94fe989502ba171f6eb3ce73.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/3d11ddcb715148a0429d3c50f0a6f4a7e8377aba.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/acc4fd772d2330aa825c8e730769ce0565f10875.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8f4fb2e4e1ac46468fa079f7d23aefe78fe72be0.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["39832301", "40514991", "39989511", "40541281"]
+      "linkedProductIds": [
+        "39832301",
+        "40514991",
+        "39989511",
+        "40541281"
+      ]
     },
     {
       "title": "Soho Fit Wool Mohair Suit",
@@ -528,29 +542,29 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8010e91b482c557bf645e5ab42befaf2b3f00667?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/7ee70c117243dd725e0c846b2be4fde31231d10a?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHESTNUT BROWN"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHESTNUT BROWN",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/47a7b081caa3d2414d3f93b0374068108f561119?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
-          "value": "OXBLOOD"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
+          "value": "OXBLOOD",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/248ada312dcb221b577228082a74429fce5ebe5d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
-          "value": "BRIGHT NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
+          "value": "BRIGHT NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/999adb3a7ae0fd27ae8ad6dea6f1672f5fd360ff?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -591,23 +605,25 @@
           "id": "40505031026"
         }
       ],
-      "description":
-        "<ul><li>An Italian-tailored suit in a fine wool and mohair blend. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement, while the trousers feature metal side adjusters for comfort. Work this style into your everday sartorial wardrobe.</li></ul>",
-      "details":
-        "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40505031</span></div>",
+      "description": "<ul><li>An Italian-tailored suit in a fine wool and mohair blend. Cut for a contemporary profile in our Soho fit, the armhole is cut high for a sharp silhouette, while tapered trousers feature a comfortable high-rise waist. The jacket is kept unlined for a natural drape and is  constructed with a double back vent for ease of movement, while the trousers feature metal side adjusters for comfort. Work this style into your everday sartorial wardrobe.</li></ul>",
+      "details": "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40505031</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/ad607fbb7899cc76ea85114c433dd35d638ef6d0.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/cfc126a235b11c8a10715c6097f7c67d529e38a5.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/6f83ee8adba7eadf89c1d1251ed08097671e1c8a.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/0df655b2750209214e82b2edb0f41abc754ceaa7.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/77fc25373b31d95cc54f38ae2497d3762e20a7f2.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/78b0bcc6ed89d792d4e850ec307aadfb905ec732.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/35e486c30e34944a5489f41d67bbc0ec142525c8.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/807f294282c644e3ce5a22aa39fd961f5a5c046f.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/51f890b7fb4fa31307765c7b868bd20b3758e9e1.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f9bb8e7712175cecec74d528bda1c4eaccfb70f9.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/ad607fbb7899cc76ea85114c433dd35d638ef6d0.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/cfc126a235b11c8a10715c6097f7c67d529e38a5.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/6f83ee8adba7eadf89c1d1251ed08097671e1c8a.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/0df655b2750209214e82b2edb0f41abc754ceaa7.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/77fc25373b31d95cc54f38ae2497d3762e20a7f2.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/78b0bcc6ed89d792d4e850ec307aadfb905ec732.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/35e486c30e34944a5489f41d67bbc0ec142525c8.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/807f294282c644e3ce5a22aa39fd961f5a5c046f.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/51f890b7fb4fa31307765c7b868bd20b3758e9e1.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f9bb8e7712175cecec74d528bda1c4eaccfb70f9.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40200291", "40334031", "40539861"]
+      "linkedProductIds": [
+        "40200291",
+        "40334031",
+        "40539861"
+      ]
     },
     {
       "title": "Slim Fit Wool Mohair Suit",
@@ -621,29 +637,29 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
-          "value": "PETROL BLUE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/37949cfbe0bee3a3c427008b25a00cb74160d581.jpg?$BBY_V2_ML_HERO$",
+          "value": "PETROL BLUE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/8010e91b482c557bf645e5ab42befaf2b3f00667?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/4797494031fdfa6338f9e4a88193be5178a355c2.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/7ee70c117243dd725e0c846b2be4fde31231d10a?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHESTNUT BROWN"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e9087b0afb26cf7420ea3547e50cc6ba885a7cc7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHESTNUT BROWN",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/47a7b081caa3d2414d3f93b0374068108f561119?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
-          "value": "OXBLOOD"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/55c3e31659c1fa889c7e6d9b6aa207752927209f.jpg?$BBY_V2_ML_HERO$",
+          "value": "OXBLOOD",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/248ada312dcb221b577228082a74429fce5ebe5d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
-          "value": "BRIGHT NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/a77f1fcab82d01913b59904174848b055ae77d7c.jpg?$BBY_V2_ML_HERO$",
+          "value": "BRIGHT NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/999adb3a7ae0fd27ae8ad6dea6f1672f5fd360ff?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -680,20 +696,23 @@
           "id": "40505061023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-tailored suit in a fine wool and mohair blend, befitting for warm-weather wearing. Cut slim for a neat profile, the shoulder is narrow while tapered trousers feature a mid-high rise waist. The jacket is kept unlined for a natural drape and is complete with working button cuffs and a double back vent for comfort. Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure and unfinished hems.</li></ul>",
-      "details":
-        "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40505061</span></div>",
+      "description": "<ul><li>An Italian-tailored suit in a fine wool and mohair blend, befitting for warm-weather wearing. Cut slim for a neat profile, the shoulder is narrow while tapered trousers feature a mid-high rise waist. The jacket is kept unlined for a natural drape and is complete with working button cuffs and a double back vent for comfort. Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure and unfinished hems.</li></ul>",
+      "details": "<ul><li>Outer: 60% wool, 40% mohair</li><li>Sleeve lining: 100% cupro</li><li>Trouser lining: 100% viscose</li><li>Buttons: buffalo horn</li><li>Single-breasted two-button closure</li><li>Notch lapels</li><li>Flap pockets</li><li>Double back vent</li><li>Trouser side adjusters</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40505061</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/30c36f989dfe2fe801c07f7f71493e7bc212770b.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/144acf3409108bb0403bfd3587ca5e26084a3a5e.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ab60a2d4327f00a2600568cd5bd4656fbb90d3cc.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f69d566825c26db9cc264d1f9fa0397b0b870743.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e0ceb3ab858823664dd2ba7f6ab598e0b2f0993c.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/84f789289fc4b52387e90aa3d6ceaf28d9699dcd.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8b5a302b0c3baeb89900cdf3bd14de7c9f8ac6eb.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/30c36f989dfe2fe801c07f7f71493e7bc212770b.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/144acf3409108bb0403bfd3587ca5e26084a3a5e.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ab60a2d4327f00a2600568cd5bd4656fbb90d3cc.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f69d566825c26db9cc264d1f9fa0397b0b870743.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e0ceb3ab858823664dd2ba7f6ab598e0b2f0993c.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/84f789289fc4b52387e90aa3d6ceaf28d9699dcd.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8b5a302b0c3baeb89900cdf3bd14de7c9f8ac6eb.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["39832301", "40515001", "39989511", "40541281"]
+      "linkedProductIds": [
+        "39832301",
+        "40515001",
+        "39989511",
+        "40541281"
+      ]
     },
     {
       "title": "Slim Fit Lightweight Wool Part-canvas Suit",
@@ -707,9 +726,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d2cbd8dc71a4c7d77bda27354268835eee527cb7.jpg?$BBY_V2_ML_HERO$",
-          "value": "BRIGHT NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d2cbd8dc71a4c7d77bda27354268835eee527cb7.jpg?$BBY_V2_ML_HERO$",
+          "value": "BRIGHT NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/448c407dcf9b5d26581c42cefe564eb0901bae43?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -750,21 +769,24 @@
           "id": "40504861026"
         }
       ],
-      "description":
-        "<ul><li>A slim-fit Italian-made lightweight wool suit, ideal for warmer days. The jacket is part canvassed with a layer of natural horsehair at the chest, creating a soft structure. Finer details include hand-finished sleeves, functional cuffs and notch lapels. For the office, complete the look with a white shirt and leather lace-ups. For weekends, wear the jacket as a separate over a T-shirt and slim-fit jeans.</li></ul>",
-      "details":
-        "<ul><li>Outer: 100% wool</li><li>Jacket and trouser lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40504861</span></div>",
+      "description": "<ul><li>A slim-fit Italian-made lightweight wool suit, ideal for warmer days. The jacket is part canvassed with a layer of natural horsehair at the chest, creating a soft structure. Finer details include hand-finished sleeves, functional cuffs and notch lapels. For the office, complete the look with a white shirt and leather lace-ups. For weekends, wear the jacket as a separate over a T-shirt and slim-fit jeans.</li></ul>",
+      "details": "<ul><li>Outer: 100% wool</li><li>Jacket and trouser lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Buttons: buffalo horn</li><li>Jacket: single-breasted closure</li><li>Flap pockets, chest welt pocket</li><li>Trousers: button, hook-and-bar and zip fly closure</li><li>Side pockets</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40504861</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/38170ed87800ff4f67dd9b09d6f29b03a7bf87b5.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/6c675d824f8dc809cdc9c08eed9fd094e1edc714.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/3928a43575e1940fdd1f171e7b5d48eb2fa5f07a.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b74e9ba2ef9a45b481257961d9dfffc009cfbe9b.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d67589c90ff04e8b84034f1ef5ab5540fe3e5d0b.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/c31e74be36060f2fe28746d6fc26b092e7506a68.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/24b016f396c04590857e634dd6cacd1cc29218cd.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f6cae656c7719958264378f6abeb01c8fecc9071.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/38170ed87800ff4f67dd9b09d6f29b03a7bf87b5.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/6c675d824f8dc809cdc9c08eed9fd094e1edc714.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/3928a43575e1940fdd1f171e7b5d48eb2fa5f07a.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b74e9ba2ef9a45b481257961d9dfffc009cfbe9b.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d67589c90ff04e8b84034f1ef5ab5540fe3e5d0b.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/c31e74be36060f2fe28746d6fc26b092e7506a68.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/24b016f396c04590857e634dd6cacd1cc29218cd.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f6cae656c7719958264378f6abeb01c8fecc9071.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["39802111", "40200441", "39902691", "40020111"]
+      "linkedProductIds": [
+        "39110561",
+        "40200341",
+        "39585731",
+        "40020111"
+      ]
     },
     {
       "title": "Slim Fit Wool Part-canvas Suit",
@@ -778,14 +800,14 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/141cbecc9695cb2bcc7f60d355d6764e7d68fb5e.jpg?$BBY_V2_ML_HERO$",
-          "value": "BLACK"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/141cbecc9695cb2bcc7f60d355d6764e7d68fb5e.jpg?$BBY_V2_ML_HERO$",
+          "value": "BLACK",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/c749f0510c6528c5abf077b960807595910895c9?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e13526cd1843c2d0d4f0f4d8aa22405a022dace2.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e13526cd1843c2d0d4f0f4d8aa22405a022dace2.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/abe9e8100ae42d69282fc686de65040902cb192f?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -822,23 +844,25 @@
           "id": "39832501030"
         }
       ],
-      "description":
-        "<ul><li>A slim fit suit with a short, closely fitted jacket and narrow tapered trousers crafted in lightweight wool woven at the Burberry mill.</li><li>Inspired by traditional tailoring, the suit is finished with sartorial pick-stitch detail.</li><li>The jacket has a part-canvas construction. With a layer of natural horsehair at the chest, the canvassing moulds to the cut of the jacket, creating a light handle and a clean silhouette.</li><li>Featuring a sharp crease to the leg, the flat front trousers have concealed hook, bar and zip closures and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
-      "details":
-        "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832501</span></div>",
+      "description": "<ul><li>A slim fit suit with a short, closely fitted jacket and narrow tapered trousers crafted in lightweight wool woven at the Burberry mill.</li><li>Inspired by traditional tailoring, the suit is finished with sartorial pick-stitch detail.</li><li>The jacket has a part-canvas construction. With a layer of natural horsehair at the chest, the canvassing moulds to the cut of the jacket, creating a light handle and a clean silhouette.</li><li>Featuring a sharp crease to the leg, the flat front trousers have concealed hook, bar and zip closures and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
+      "details": "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832501</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/71d361fa7acef6ed7451ff48fc7a17b8a25ea7b4.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/86dcc99dbc76ebc69717769ee37f7b4802de0e81.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e22d8a3559526220bac71ad4ad90354dd4864c2a.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/3e0ebb989acda43bf1d8ae5f348e74b458dc0189.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/6219a46ffbdb26341226350dfe423d9b8f4cc3b4.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/fe20e045762e781c8959d1cd5b1b560c287681ed.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/fe0773734e926fc639b763d0dabc9c5ca5fe4034.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/15b6c8c116789a9647059b29eb7d17b195ac8a5d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f1f986239445d8e615edd1920aabffdd6a20078d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/46b55d79a1b6a389fbe80d4906f0d443c00081b3.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/71d361fa7acef6ed7451ff48fc7a17b8a25ea7b4.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/86dcc99dbc76ebc69717769ee37f7b4802de0e81.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e22d8a3559526220bac71ad4ad90354dd4864c2a.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/3e0ebb989acda43bf1d8ae5f348e74b458dc0189.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/6219a46ffbdb26341226350dfe423d9b8f4cc3b4.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/fe20e045762e781c8959d1cd5b1b560c287681ed.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/fe0773734e926fc639b763d0dabc9c5ca5fe4034.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/15b6c8c116789a9647059b29eb7d17b195ac8a5d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f1f986239445d8e615edd1920aabffdd6a20078d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/46b55d79a1b6a389fbe80d4906f0d443c00081b3.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40031851", "40200301", "39656751"]
+      "linkedProductIds": [
+        "39110531",
+        "40228251",
+        "40054821"
+      ]
     },
     {
       "title": "Slim Fit Wool Mohair Part-canvas Suit",
@@ -852,9 +876,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/1050fa4116bd26bd3147a4e9565ce3815aa972c2.jpg?$BBY_V2_ML_HERO$",
-          "value": "ROYAL NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/1050fa4116bd26bd3147a4e9565ce3815aa972c2.jpg?$BBY_V2_ML_HERO$",
+          "value": "ROYAL NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/febd76b9463d57b47f7f20fdf1085e7bd3bd8f13?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -915,19 +939,21 @@
           "id": "39833461024"
         }
       ],
-      "description":
-        "<ul><li>A slim fit suit with a short, closely fitted jacket and narrow tapered trousers in a rich blend of wool and mohair.</li><li>Inspired by traditional tailoring, the suit is finished with sartorial pick-stitch detailing.</li><li>The jacket has a part-canvas construction. With a layer of natural horsehair at the chest, the canvassing moulds to the cut of the jacket, creating a light handle and a clean silhouette.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
-      "details":
-        "<ul><li>73% wool, 27% mohair</li><li>Jacket lining: 100% viscose</li><li>Trouser lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39833461</span></div>",
+      "description": "<ul><li>A slim fit suit with a short, closely fitted jacket and narrow tapered trousers in a rich blend of wool and mohair.</li><li>Inspired by traditional tailoring, the suit is finished with sartorial pick-stitch detailing.</li><li>The jacket has a part-canvas construction. With a layer of natural horsehair at the chest, the canvassing moulds to the cut of the jacket, creating a light handle and a clean silhouette.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
+      "details": "<ul><li>73% wool, 27% mohair</li><li>Jacket lining: 100% viscose</li><li>Trouser lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39833461</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/5dba405e2073ddff09bd0d91dee33ec27303c275.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e1ebd914fdfa5f0e5e5621809d7eb545db90ca6a.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/685bff6249364ff0edececf2fc2b79bd89a6e3a5.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f30f7754ccdb34079486497491d4c08ad918c607.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b3bcdcf4a80785c28d17edb36b3da26a22da8e99.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/1cf8261b00f5d585ba31e4f70003b6c32e81ceb6.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/5dba405e2073ddff09bd0d91dee33ec27303c275.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e1ebd914fdfa5f0e5e5621809d7eb545db90ca6a.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/685bff6249364ff0edececf2fc2b79bd89a6e3a5.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f30f7754ccdb34079486497491d4c08ad918c607.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b3bcdcf4a80785c28d17edb36b3da26a22da8e99.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/1cf8261b00f5d585ba31e4f70003b6c32e81ceb6.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["39066871", "40200311", "40054821"]
+      "linkedProductIds": [
+        "40031821",
+        "40228251",
+        "39586401"
+      ]
     },
     {
       "title": "Slim Fit Cotton Blend Travel Tailoring Suit",
@@ -941,9 +967,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/62444bb9b8f19a0fac201ff00578aa2fbadc8c3c.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK CHARCOAL MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/62444bb9b8f19a0fac201ff00578aa2fbadc8c3c.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK CHARCOAL MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/2973fa3df09e8b70d12706df76070143b8dcff1d?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -980,23 +1006,25 @@
           "id": "40430731023"
         }
       ],
-      "description":
-        "<ul><li>An Italian-made slim fit suit made from a cotton blend cloth that is perfect for year-round wear. The design is part of the Burberry Travel Tailoring collection and combines new, modern canvassing and natural memory fabrics designed to flex with the movement of the body, while retaining a sharp structure. Staying true to traditional tailoring, finer details include hand-finished sleeves and a Melton undercollar. Trousers are flat-fronted with a sharp crease to the leg and unfinished hems.</li></ul>",
-      "details":
-        "<ul><li>Outer: 62% cotton, 34% polyamide, 4% elastane</li><li>Jacket lining: 94% cupro, 6% elastane</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40430731</span></div>",
+      "description": "<ul><li>An Italian-made slim fit suit made from a cotton blend cloth that is perfect for year-round wear. The design is part of the Burberry Travel Tailoring collection and combines new, modern canvassing and natural memory fabrics designed to flex with the movement of the body, while retaining a sharp structure. Staying true to traditional tailoring, finer details include hand-finished sleeves and a Melton undercollar. Trousers are flat-fronted with a sharp crease to the leg and unfinished hems.</li></ul>",
+      "details": "<ul><li>Outer: 62% cotton, 34% polyamide, 4% elastane</li><li>Jacket lining: 94% cupro, 6% elastane</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40430731</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/8d07d4e6a4f4cc9b8b6d1824ae280f3312a64c6e.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/7d3eb92af522733a19449ba3576dddbd1f67b696.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/3289d39b704710ab1cf300657135727ab57ed8e2.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/adbbcf485cf8596c93359c425d0402f46c6f266d.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/17620957e0de18dbd66f6a7ee530285c3865309c.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d76d490778ac24d21e49fb43337988fbf3c80c88.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d7901eb110a5b3c35d1b42fba451442a8e9b38c9.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8937c4880966a0e250cb022f8f280e1ab08ab28a.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/df573dcb552faefedd06a38d32b905947e78b248.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/a3ca8f35c78287c611c195418635648bcef7d4d8.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/8d07d4e6a4f4cc9b8b6d1824ae280f3312a64c6e.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/7d3eb92af522733a19449ba3576dddbd1f67b696.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/3289d39b704710ab1cf300657135727ab57ed8e2.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/adbbcf485cf8596c93359c425d0402f46c6f266d.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/17620957e0de18dbd66f6a7ee530285c3865309c.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d76d490778ac24d21e49fb43337988fbf3c80c88.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d7901eb110a5b3c35d1b42fba451442a8e9b38c9.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8937c4880966a0e250cb022f8f280e1ab08ab28a.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/df573dcb552faefedd06a38d32b905947e78b248.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/a3ca8f35c78287c611c195418635648bcef7d4d8.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["40031851", "40200301", "39586401"]
+      "linkedProductIds": [
+        "39110501",
+        "40200401",
+        "45547991"
+      ]
     },
     {
       "title": "Slim Fit Cotton Blend Travel Tailoring Suit",
@@ -1010,9 +1038,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d1c565c5d204b738ad2da74d64af0e91f8ce9e7e.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d1c565c5d204b738ad2da74d64af0e91f8ce9e7e.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/1dce04608af1071aa645e1ce253f6698b8878cff?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1049,21 +1077,24 @@
           "id": "40425861023"
         }
       ],
-      "description":
-        "<ul><li>A slim fit suit crafted in Italy from a cotton blend cloth that is perfect for year-round wear. The design is part of the Burberry Travel Tailoring collection and combines new, modern canvassing and natural memory fabrics designed to flex with the movement of the body, while retaining a sharp structure. Staying true to traditional tailoring, finer details include hand-finished sleeves, a Melton undercollar and functional cuffs. Trousers are flat-fronted with a sharp crease to the leg and unfinished hems.</li></ul>",
-      "details":
-        "<ul><li>Outer: 62% cotton, 34% polyamide, 4% elastane</li><li>Jacket lining: 94% cupro, 6% elastane</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40425861</span></div>",
+      "description": "<ul><li>A slim fit suit crafted in Italy from a cotton blend cloth that is perfect for year-round wear. The design is part of the Burberry Travel Tailoring collection and combines new, modern canvassing and natural memory fabrics designed to flex with the movement of the body, while retaining a sharp structure. Staying true to traditional tailoring, finer details include hand-finished sleeves, a Melton undercollar and functional cuffs. Trousers are flat-fronted with a sharp crease to the leg and unfinished hems.</li></ul>",
+      "details": "<ul><li>Outer: 62% cotton, 34% polyamide, 4% elastane</li><li>Jacket lining: 94% cupro, 6% elastane</li><li>Sleeve lining: 68% acetate, 32% polyester</li><li>Trouser lining: 63% acetate, 37% polyester</li><li>Buttons: buffalo horn</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>40425861</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/87aa59452b6669735e769bba6b94aef4f85ec96e.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/c57b960f0202eb531e4f204f17667c5f83872ebc.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/a5e2048b807099bbf37f27bb419b21d44bcf080d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/dfb525e82120fed0f967ded9297b06c754f92b39.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/31edd4d0af263f83356ea54222516d0980b92264.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e8e1d5c3ae60db258bb2205abfec4e9e8e8c4a08.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d29b600f4116168713e9f2ae7a69b8c191a5e988.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/77bde622879359c1564f4e444608362f3af095d2.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/87aa59452b6669735e769bba6b94aef4f85ec96e.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/c57b960f0202eb531e4f204f17667c5f83872ebc.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/a5e2048b807099bbf37f27bb419b21d44bcf080d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/dfb525e82120fed0f967ded9297b06c754f92b39.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/31edd4d0af263f83356ea54222516d0980b92264.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e8e1d5c3ae60db258bb2205abfec4e9e8e8c4a08.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d29b600f4116168713e9f2ae7a69b8c191a5e988.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/77bde622879359c1564f4e444608362f3af095d2.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40031821", "40200441", "39656751", "40020101"]
+      "linkedProductIds": [
+        "40031841",
+        "40200311",
+        "40068871",
+        "40020111"
+      ]
     },
     {
       "title": "Slim Fit Wool Part-canvas Suit",
@@ -1077,14 +1108,14 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/141cbecc9695cb2bcc7f60d355d6764e7d68fb5e.jpg?$BBY_V2_ML_HERO$",
-          "value": "BLACK"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/141cbecc9695cb2bcc7f60d355d6764e7d68fb5e.jpg?$BBY_V2_ML_HERO$",
+          "value": "BLACK",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/c749f0510c6528c5abf077b960807595910895c9?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/e13526cd1843c2d0d4f0f4d8aa22405a022dace2.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/e13526cd1843c2d0d4f0f4d8aa22405a022dace2.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/abe9e8100ae42d69282fc686de65040902cb192f?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1121,23 +1152,25 @@
           "id": "39832511030"
         }
       ],
-      "description":
-        "<ul><li>A slim fit suit with a short, closely fitted jacket and narrow tapered trousers crafted in lightweight wool woven at the Burberry mill.</li><li>Inspired by traditional tailoring, the suit is finished with sartorial pick-stitch detail.</li><li>The jacket has a part-canvas construction. With a layer of natural horsehair at the chest, the canvassing moulds to the cut of the jacket, creating a light handle and a clean silhouette.</li><li>Featuring a sharp crease to the leg, the flat front trousers have concealed hook, bar and zip closures and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
-      "details":
-        "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832511</span></div>",
+      "description": "<ul><li>A slim fit suit with a short, closely fitted jacket and narrow tapered trousers crafted in lightweight wool woven at the Burberry mill.</li><li>Inspired by traditional tailoring, the suit is finished with sartorial pick-stitch detail.</li><li>The jacket has a part-canvas construction. With a layer of natural horsehair at the chest, the canvassing moulds to the cut of the jacket, creating a light handle and a clean silhouette.</li><li>Featuring a sharp crease to the leg, the flat front trousers have concealed hook, bar and zip closures and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
+      "details": "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832511</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/e430d51a9e9078e8660a5ba26a6b46304fa400a7.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/25363f70085786cf63c8c985974ac053f8603c91.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/034d51d73282ee22b39aeb3eda01f68725946359.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e76d4d8ed433e4ac6acce53c1ffa34d1ceaab295.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/867ef33abec71dd4f756f91c757fa067b93a6ff3.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/04552f50c22a88ed20d955ee1e96aab110e4c0c7.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/0f107c96fa04f9f82f45605bcb33baa7e7f4234d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/cdaf53d3cd9e8be9e7bd750e909600079ec1f5d3.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/cddf3ef866458ec8a78018089b9ae08d7cc817af.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/db7ff77456ba2a6dfe49aea8717834d577169aa2.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/e430d51a9e9078e8660a5ba26a6b46304fa400a7.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/25363f70085786cf63c8c985974ac053f8603c91.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/034d51d73282ee22b39aeb3eda01f68725946359.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e76d4d8ed433e4ac6acce53c1ffa34d1ceaab295.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/867ef33abec71dd4f756f91c757fa067b93a6ff3.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/04552f50c22a88ed20d955ee1e96aab110e4c0c7.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/0f107c96fa04f9f82f45605bcb33baa7e7f4234d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/cdaf53d3cd9e8be9e7bd750e909600079ec1f5d3.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/cddf3ef866458ec8a78018089b9ae08d7cc817af.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/db7ff77456ba2a6dfe49aea8717834d577169aa2.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40107191", "40228221", "39902691"]
+      "linkedProductIds": [
+        "39977381",
+        "40200441",
+        "40054821"
+      ]
     },
     {
       "title": "Modern Fit Wool Part-canvas Suit",
@@ -1151,19 +1184,19 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d8b4ff6c45c156bff87de474c85ca8da8a12e302.jpg?$BBY_V2_ML_HERO$",
-          "value": "BLACK"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d8b4ff6c45c156bff87de474c85ca8da8a12e302.jpg?$BBY_V2_ML_HERO$",
+          "value": "BLACK",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/d99dc08ef23cbe7d2ced55339cae27598b59bd3b?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/c3e654207d7fd6e45c89bfa8876856d155f2adf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHARCOAL"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/c3e654207d7fd6e45c89bfa8876856d155f2adf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHARCOAL",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/6256350654dc16bddc9be393db9c1780efc49b3d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/2b82f54c04ff5df4a0a990a270154edb2e1e6e25.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/2b82f54c04ff5df4a0a990a270154edb2e1e6e25.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/949439c08d82369155948a6b93085ab05418a4ad?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1200,23 +1233,25 @@
           "id": "39832531030"
         }
       ],
-      "description":
-        "<ul><li>A modern fit suit with a fitted jacket and narrow straight leg trousers in wool woven at the Burberry mill in England.</li><li>The suit jacket is part-canvassed at the chest with a layer of natural horsehair. This moulds to the cut of the jacket, creating shape, a clean silhouette and a lightweight structure.</li><li>Referencing traditional tailoring, the jacket is finished with a Melton undercollar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed button, hook-and-bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
-      "details":
-        "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832531</span></div>",
+      "description": "<ul><li>A modern fit suit with a fitted jacket and narrow straight leg trousers in wool woven at the Burberry mill in England.</li><li>The suit jacket is part-canvassed at the chest with a layer of natural horsehair. This moulds to the cut of the jacket, creating shape, a clean silhouette and a lightweight structure.</li><li>Referencing traditional tailoring, the jacket is finished with a Melton undercollar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed button, hook-and-bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
+      "details": "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832531</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/f3d4ac9c2497299c0b12f618e9cd832671a3f992.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/281a983b3f0923bf5f97f8cda3730ef706749f4d.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/cc65f265e2de4c7670f78152f31a57d8707d3564.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/723fc153b1b531ea40a7a99beba89f79a17270f3.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ad7412d7c5a8bf6566a1e162cc43e5de0ad38735.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/0c2d61dbe0fabbb3e8a1433626e6bb6e30f4a4ab.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/74dc6cbb56a4792326895724d73fe8d8d2b0af43.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/c7d532789db13fe98ec5c8cfaa960a4c2c2a76ea.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/832491b89fc415f379c767c692c78cb0c28fcf85.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/2afd4a2bd96e1f405626f5ce010f8fef7713bb34.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/f3d4ac9c2497299c0b12f618e9cd832671a3f992.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/281a983b3f0923bf5f97f8cda3730ef706749f4d.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/cc65f265e2de4c7670f78152f31a57d8707d3564.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/723fc153b1b531ea40a7a99beba89f79a17270f3.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ad7412d7c5a8bf6566a1e162cc43e5de0ad38735.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/0c2d61dbe0fabbb3e8a1433626e6bb6e30f4a4ab.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/74dc6cbb56a4792326895724d73fe8d8d2b0af43.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/c7d532789db13fe98ec5c8cfaa960a4c2c2a76ea.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/832491b89fc415f379c767c692c78cb0c28fcf85.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/2afd4a2bd96e1f405626f5ce010f8fef7713bb34.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["39833391", "40228221", "39586401"]
+      "linkedProductIds": [
+        "40038621",
+        "40200431",
+        "39656751"
+      ]
     },
     {
       "title": "Modern Fit Wool Part-canvas Suit",
@@ -1230,19 +1265,19 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d8b4ff6c45c156bff87de474c85ca8da8a12e302.jpg?$BBY_V2_ML_HERO$",
-          "value": "BLACK"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d8b4ff6c45c156bff87de474c85ca8da8a12e302.jpg?$BBY_V2_ML_HERO$",
+          "value": "BLACK",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/d99dc08ef23cbe7d2ced55339cae27598b59bd3b?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/c3e654207d7fd6e45c89bfa8876856d155f2adf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHARCOAL"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/c3e654207d7fd6e45c89bfa8876856d155f2adf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHARCOAL",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/6256350654dc16bddc9be393db9c1780efc49b3d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/2b82f54c04ff5df4a0a990a270154edb2e1e6e25.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/2b82f54c04ff5df4a0a990a270154edb2e1e6e25.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/949439c08d82369155948a6b93085ab05418a4ad?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1307,23 +1342,25 @@
           "id": "39832521028"
         }
       ],
-      "description":
-        "<ul><li>A modern fit suit with a fitted jacket and narrow straight leg trousers in wool woven at the Burberry mill in England.</li><li>The suit jacket is part-canvassed at the chest with a layer of natural horsehair. This moulds to the cut of the jacket, creating shape, a clean silhouette and a lightweight structure.</li><li>Referencing traditional tailoring, the jacket is finished with a Melton undercollar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed button, hook-and-bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
-      "details":
-        "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832521</span></div>",
+      "description": "<ul><li>A modern fit suit with a fitted jacket and narrow straight leg trousers in wool woven at the Burberry mill in England.</li><li>The suit jacket is part-canvassed at the chest with a layer of natural horsehair. This moulds to the cut of the jacket, creating shape, a clean silhouette and a lightweight structure.</li><li>Referencing traditional tailoring, the jacket is finished with a Melton undercollar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed button, hook-and-bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
+      "details": "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832521</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/26140f25e181e940e7e55a92774a3ab372748ea7.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/2f1239e41c23284fcf192d90fcb209eec25cf8a5.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/9e826e4181e125a566955a87d07d4c4822500306.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/2850cb0415024a4bc6341082cc8bb10df243f935.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/79337cccb32ab664b9fe3391104c9992e19fded4.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/5eb4148476d6c95b426e4694a206468324f31359.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/19290d221905cfea2a237897e91b5a6e727454f7.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/a5107d8b4ab28f61e62879fe6bcbb02efc63ffc2.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/2f0afea10ac37457ab042c8d4953ddc0cbe8f9a7.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/a9e1d972fd87278eb3ec0950a82d28762598caf7.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/26140f25e181e940e7e55a92774a3ab372748ea7.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/2f1239e41c23284fcf192d90fcb209eec25cf8a5.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/9e826e4181e125a566955a87d07d4c4822500306.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/2850cb0415024a4bc6341082cc8bb10df243f935.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/79337cccb32ab664b9fe3391104c9992e19fded4.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/5eb4148476d6c95b426e4694a206468324f31359.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/19290d221905cfea2a237897e91b5a6e727454f7.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/a5107d8b4ab28f61e62879fe6bcbb02efc63ffc2.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/2f0afea10ac37457ab042c8d4953ddc0cbe8f9a7.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/a9e1d972fd87278eb3ec0950a82d28762598caf7.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["39110561", "40228251", "45547991"]
+      "linkedProductIds": [
+        "40088051",
+        "40200291",
+        "40054821"
+      ]
     },
     {
       "title": "Modern Fit Wool Part-canvas Suit",
@@ -1337,19 +1374,19 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/d8b4ff6c45c156bff87de474c85ca8da8a12e302.jpg?$BBY_V2_ML_HERO$",
-          "value": "BLACK"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/d8b4ff6c45c156bff87de474c85ca8da8a12e302.jpg?$BBY_V2_ML_HERO$",
+          "value": "BLACK",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/d99dc08ef23cbe7d2ced55339cae27598b59bd3b?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/c3e654207d7fd6e45c89bfa8876856d155f2adf7.jpg?$BBY_V2_ML_HERO$",
-          "value": "CHARCOAL"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/c3e654207d7fd6e45c89bfa8876856d155f2adf7.jpg?$BBY_V2_ML_HERO$",
+          "value": "CHARCOAL",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/6256350654dc16bddc9be393db9c1780efc49b3d?$BBY_V2_BASIC$"
         },
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/2b82f54c04ff5df4a0a990a270154edb2e1e6e25.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/2b82f54c04ff5df4a0a990a270154edb2e1e6e25.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/949439c08d82369155948a6b93085ab05418a4ad?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1406,23 +1443,25 @@
           "id": "39832541020"
         }
       ],
-      "description":
-        "<ul><li>A modern fit suit with a fitted jacket and narrow straight leg trousers in wool woven at the Burberry mill in England.</li><li>The suit jacket is part-canvassed at the chest with a layer of natural horsehair. This moulds to the cut of the jacket, creating shape, a clean silhouette and a lightweight structure.</li><li>Referencing traditional tailoring, the jacket is finished with a Melton undercollar and functional button cuffs.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed button, hook-and-bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
-      "details":
-        "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832541</span></div>",
+      "description": "<ul><li>A modern fit suit with a fitted jacket and narrow straight leg trousers in wool woven at the Burberry mill in England.</li><li>The suit jacket is part-canvassed at the chest with a layer of natural horsehair. This moulds to the cut of the jacket, creating shape, a clean silhouette and a lightweight structure.</li><li>Referencing traditional tailoring, the jacket is finished with a Melton undercollar and functional button cuffs.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed button, hook-and-bar and zip closure and unfinished hems.</li><li>The design is available in two sleeve lengths. SF sizes are 3cm shorter in the sleeve.</li></ul>",
+      "details": "<ul><li>100% wool</li><li>Lining: 100% viscose</li><li>Sleeve lining: 50% acetate, 50% cupro</li><li>Dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39832541</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/a977f2f677bbf6664e72d332e79b5447dbbc2e0a.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/a2ff64f557cdb88bf1d6767a1aeafc57af556f3e.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/720e534cf46af983acdb3435f1d65a41a79cecd2.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/1b5a3f10110a9c57e7aee2e492690ce1737a848c.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e66012190a833f7c3a2534d7769b89f9f770fdef.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/81a97a0efb6436a0195a06f22b815a647795d182.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d3c60a2daaaf9a2d3e7a2b28e605679dc734df82.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/782e9de8e605af56c6a107ac6355709e7afae1ce.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/a887c57da8095605562033dc06f474407457fa14.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/38792ba96a9430151521ce9b1594f8cf773c9696.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/a977f2f677bbf6664e72d332e79b5447dbbc2e0a.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/a2ff64f557cdb88bf1d6767a1aeafc57af556f3e.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/720e534cf46af983acdb3435f1d65a41a79cecd2.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/1b5a3f10110a9c57e7aee2e492690ce1737a848c.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e66012190a833f7c3a2534d7769b89f9f770fdef.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/81a97a0efb6436a0195a06f22b815a647795d182.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d3c60a2daaaf9a2d3e7a2b28e605679dc734df82.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/782e9de8e605af56c6a107ac6355709e7afae1ce.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/a887c57da8095605562033dc06f474407457fa14.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/38792ba96a9430151521ce9b1594f8cf773c9696.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40088051", "40200441", "40049271"]
+      "linkedProductIds": [
+        "40038591",
+        "40200311",
+        "45547991"
+      ]
     },
     {
       "title": "Modern Fit Travel Tailoring Virgin Wool Suit",
@@ -1436,9 +1475,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/bb3a70f6c30a015c277721bc9a47f4e7b9486ea3.jpg?$BBY_V2_ML_HERO$",
-          "value": "DARK GREY MELANGE"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/bb3a70f6c30a015c277721bc9a47f4e7b9486ea3.jpg?$BBY_V2_ML_HERO$",
+          "value": "DARK GREY MELANGE",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/d44f57296020583926bb061ba0480eb5dd57878c?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1483,23 +1522,25 @@
           "id": "39180431026"
         }
       ],
-      "description":
-        "<ul><li>The suit is part of the Travel Tailoring collection. Invented by Burberry, the suit combines new, modern canvassing and natural memory fabrics designed to flex with the movement of the body, while retaining a sharp silhouette.</li><li>Created in Italy using an innovative technique, the fabric is 100% wool. The yarn is woven in a spring-like structure, giving the fabric natural stretch without the need for elastane.</li><li>Tailored for a modern fit, the lightweight suit includes a fitted jacket and narrow straight leg trousers.</li><li>Cut from yarn-dyed virgin wool, the suit is finished with notch lapels, a welt pocket, flap pockets and sartorial pick-stitch detailing.</li><li>Featuring a sharp centre crease, the trousers fasten with a concealed hook, bar and zip closure. Hems are left unfinished.</li></ul>",
-      "details":
-        "<ul><li>100% virgin wool</li><li>Buttons: cow horn</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39180431</span></div>",
+      "description": "<ul><li>The suit is part of the Travel Tailoring collection. Invented by Burberry, the suit combines new, modern canvassing and natural memory fabrics designed to flex with the movement of the body, while retaining a sharp silhouette.</li><li>Created in Italy using an innovative technique, the fabric is 100% wool. The yarn is woven in a spring-like structure, giving the fabric natural stretch without the need for elastane.</li><li>Tailored for a modern fit, the lightweight suit includes a fitted jacket and narrow straight leg trousers.</li><li>Cut from yarn-dyed virgin wool, the suit is finished with notch lapels, a welt pocket, flap pockets and sartorial pick-stitch detailing.</li><li>Featuring a sharp centre crease, the trousers fasten with a concealed hook, bar and zip closure. Hems are left unfinished.</li></ul>",
+      "details": "<ul><li>100% virgin wool</li><li>Buttons: cow horn</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39180431</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/2ce77072fde91cc6d6aae802ceba59e9a0cfac50.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/f250d9a2943a8453d554243e03b29cec575f8117.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b79462400a077e049a4552aaf1647115a6e06e2b.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/472fa03285a0762a6fed63c5f0f004f5e5794258.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/4309d881f4dd11e615c1ffaf202839a6396f469b.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/c1f78ed9b923b54927886f892c57c2b2f2773e47.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/67a333f212d8a753ca42546b551353bfb5a23b1e.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/d9adf60780793ca464b482f572e99fafd4252cf3.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/b28b5dad3f06132c826558f60c8299b5efe82702.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/918026d0b9c53c1e95cb20c1b0b1c482c4ca7dcd.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/2ce77072fde91cc6d6aae802ceba59e9a0cfac50.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/f250d9a2943a8453d554243e03b29cec575f8117.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b79462400a077e049a4552aaf1647115a6e06e2b.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/472fa03285a0762a6fed63c5f0f004f5e5794258.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/4309d881f4dd11e615c1ffaf202839a6396f469b.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/c1f78ed9b923b54927886f892c57c2b2f2773e47.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/67a333f212d8a753ca42546b551353bfb5a23b1e.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/d9adf60780793ca464b482f572e99fafd4252cf3.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/b28b5dad3f06132c826558f60c8299b5efe82702.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/918026d0b9c53c1e95cb20c1b0b1c482c4ca7dcd.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["39977381", "40200301", "39585731"]
+      "linkedProductIds": [
+        "40093921",
+        "40200401",
+        "45547991"
+      ]
     },
     {
       "title": "Modern Fit Wool Mohair Half-canvas Tuxedo",
@@ -1513,9 +1554,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/80112bacca52e2a4ec1bd2c20c0e801334705906.jpg?$BBY_V2_ML_HERO$",
-          "value": "BLACK"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/80112bacca52e2a4ec1bd2c20c0e801334705906.jpg?$BBY_V2_ML_HERO$",
+          "value": "BLACK",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/feec31ed7e2da2e1973abe787ee4071ad50e7d88?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1560,20 +1601,23 @@
           "id": "39159311029"
         }
       ],
-      "description":
-        "<ul><li>A modern fit wool mohair tuxedo with elegant satin lapels and satin-covered buttons.</li><li>The tuxedo comprises a fitted jacket and narrow straight leg trousers.</li><li>The jacket has a half-canvas construction with several layers of natural horsehair. Expertly cut and shaped, the canvas creates a structured chest, soft lapel roll and a tailored collar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure and unfinished hems.</li></ul>",
-      "details":
-        "<ul><li>71% wool, 29% mohair</li><li>Jacquard lining</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39159311</span></div>",
+      "description": "<ul><li>A modern fit wool mohair tuxedo with elegant satin lapels and satin-covered buttons.</li><li>The tuxedo comprises a fitted jacket and narrow straight leg trousers.</li><li>The jacket has a half-canvas construction with several layers of natural horsehair. Expertly cut and shaped, the canvas creates a structured chest, soft lapel roll and a tailored collar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure and unfinished hems.</li></ul>",
+      "details": "<ul><li>71% wool, 29% mohair</li><li>Jacquard lining</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39159311</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/66e132c1af279ff44e836c93b059271763d7a9ea.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/5fdb8aab18b484c4ec47e6eee7b0e8e8fe0b192e.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/5d3168cda81db52321f1c26816daab24b5c13c4d.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/79105dd23bc5d134b5e2a07744a000170d902a37.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/0e18082608ffd2c32ab6523f945e22015cdf8603.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/19971887257c2d216a3f3c59c5774504acd2d5e5.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/7cb61d89d35e533931b55ece91492d3154fbd4fd.jpg?$BBY_V2_ML_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/66e132c1af279ff44e836c93b059271763d7a9ea.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/5fdb8aab18b484c4ec47e6eee7b0e8e8fe0b192e.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/5d3168cda81db52321f1c26816daab24b5c13c4d.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/79105dd23bc5d134b5e2a07744a000170d902a37.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/0e18082608ffd2c32ab6523f945e22015cdf8603.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/19971887257c2d216a3f3c59c5774504acd2d5e5.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/7cb61d89d35e533931b55ece91492d3154fbd4fd.jpg?$BBY_V2_ML_1X1$"
       ],
-      "linkedProductIds": ["40038621", "40068871", "40020111", "39970191"]
+      "linkedProductIds": [
+        "40108161",
+        "39637341",
+        "40020121",
+        "39970191"
+      ]
     },
     {
       "title": "Modern Fit Virgin Wool Half-canvas Tuxedo",
@@ -1587,9 +1631,9 @@
       },
       "colours": [
         {
-          "heroSrc":
-            "https://assets.burberry.com/is/image/Burberryltd/62b3cc38fc28cff6b7e28c20b62216d7049f5c76.jpg?$BBY_V2_ML_HERO$",
-          "value": "NAVY"
+          "heroSrc": "https://assets.burberry.com/is/image/Burberryltd/62b3cc38fc28cff6b7e28c20b62216d7049f5c76.jpg?$BBY_V2_ML_HERO$",
+          "value": "NAVY",
+          "src": "https://assets.burberry.com/is/image/Burberryltd/06ff7f83d5866708bdcb6400d290350b7d8c353b?$BBY_V2_BASIC$"
         }
       ],
       "sizes": [
@@ -1626,19 +1670,22 @@
           "id": "39182731023"
         }
       ],
-      "description":
-        "<ul><li>A modern fit virgin wool tuxedo with peaked satin lapels and satin-covered buttons.</li><li>The modern fit tuxedo comprises a fitted jacket and narrow straight leg trousers.</li><li>The jacket has a half-canvas construction with several layers of natural horsehair. Expertly cut and shaped, the canvas creates a structured chest, soft lapel roll and a tailored collar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure, adjustable side tabs and unfinished hems.</li></ul>",
-      "details":
-        "<ul><li>100% virgin wool</li><li>Jacquard lining</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39182731</span></div>",
+      "description": "<ul><li>A modern fit virgin wool tuxedo with peaked satin lapels and satin-covered buttons.</li><li>The modern fit tuxedo comprises a fitted jacket and narrow straight leg trousers.</li><li>The jacket has a half-canvas construction with several layers of natural horsehair. Expertly cut and shaped, the canvas creates a structured chest, soft lapel roll and a tailored collar.</li><li>Featuring a sharp crease to the leg, the flat front trousers have a concealed hook, bar and zip closure, adjustable side tabs and unfinished hems.</li></ul>",
+      "details": "<ul><li>100% virgin wool</li><li>Jacquard lining</li><li>Specialist dry clean</li><li>Made in Italy</li><li>Trouser hems and jacket sleeves can be altered using our in-store service. Please see FAQs for details.</li></ul><div class=\"product-id p2 section\">Item&nbsp;<span>39182731</span></div>",
       "images": [
-        "https://assets.burberry.com/is/image/Burberryltd/cfef9a2db2222292f34a0f1e6c4ec12c24eaf3df.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/1b7ec5976a39573b8b638f4be20ade5d3f3a26b1.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/5c0ff7f2163a223b4b79dcd27eb422af2a6450ce.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/e592d4272b417e52d58af778dbc783c4bdd4a3d2.jpg?$BBY_V2_SL_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/ebcecc06073351654307155577311aaef5552ab5.jpg?$BBY_V2_ML_1X1",
-        "https://assets.burberry.com/is/image/Burberryltd/8e7905f251099df4b5fe08356a4c8ffd10f86b08.jpg?$BBY_V2_SL_1X1"
+        "https://assets.burberry.com/is/image/Burberryltd/cfef9a2db2222292f34a0f1e6c4ec12c24eaf3df.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/1b7ec5976a39573b8b638f4be20ade5d3f3a26b1.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/5c0ff7f2163a223b4b79dcd27eb422af2a6450ce.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/e592d4272b417e52d58af778dbc783c4bdd4a3d2.jpg?$BBY_V2_SL_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/ebcecc06073351654307155577311aaef5552ab5.jpg?$BBY_V2_ML_1X1$",
+        "https://assets.burberry.com/is/image/Burberryltd/8e7905f251099df4b5fe08356a4c8ffd10f86b08.jpg?$BBY_V2_SL_1X1$"
       ],
-      "linkedProductIds": ["40031821", "39832441", "40382731", "40382781"]
+      "linkedProductIds": [
+        "40031821",
+        "39832441",
+        "40382731",
+        "40382781"
+      ]
     }
   ]
 }
