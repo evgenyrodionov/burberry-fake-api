@@ -10,7 +10,9 @@
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.2.0",
-    "husky": "^0.13.3"
+    "husky": "^0.13.3",
+    "jsdom": "^11.2.0",
+    "nightmare": "^2.10.0"
   },
   "now": {
     "alias": "erodionov-burberry-fake-api"
